@@ -10,4 +10,5 @@ add_executable(cpp_structures main.cpp
         lib/unordered_map.h
         lib/deque.h
         lib/geometry.h
-        lib/biginteger.h)
+        lib/biginteger.h
+        lib/matrix.h)

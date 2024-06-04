@@ -8,13 +8,5 @@
 
 
 int main() {
-    BigInteger kek = (long long)1e18;
-    BigInteger kek2 = (long long)1e18;
-    BigInteger kek3 = kek * kek2;
-    kek3 *= kek3;
-    kek3 *= kek3;
-    kek3 *= kek3;
-    kek3 *= kek3;
-    std::cout << kek3 << '\n';
     return 0;
 }

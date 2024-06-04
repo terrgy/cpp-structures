@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(cpp_structures main.cpp
         lib/string.h
         lib/stackallocator.h
-        lib/list.h)
+        lib/list.h
+        lib/unordered_map.h)

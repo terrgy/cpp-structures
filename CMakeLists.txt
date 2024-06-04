@@ -8,4 +8,5 @@ add_executable(cpp_structures main.cpp
         lib/stackallocator.h
         lib/list.h
         lib/unordered_map.h
-        lib/deque.h)
+        lib/deque.h
+        lib/geometry.h)
